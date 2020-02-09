@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9639b07f-d64c-4d37-95be-424ee25d7773" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X9baCYaJ9VIyFNt14yueEIqA4Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/templates" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.randomchat.controller" />
+      <recent name="com.randomchat.demo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/com/randomchat" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="42pervent" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="42_percent.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.randomchat.RandomChatApplication" />
+      <option name="VM_PARAMETERS" value="-Dspring.profiles.active=local" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9639b07f-d64c-4d37-95be-424ee25d7773" name="Default Changelist" comment="" />
+      <created>1580461318247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580461318247</updated>
+      <workItem from="1580461396498" duration="1566000" />
+      <workItem from="1580628454411" duration="694000" />
+      <workItem from="1580629648948" duration="2329000" />
+      <workItem from="1581232667562" duration="21000" />
+      <workItem from="1581233044164" duration="3250000" />
+      <workItem from="1581240519314" duration="1804000" />
+      <workItem from="1581242662906" duration="1915000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1581244056169</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581244056169</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581243605389">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1581243605389" />
+    <state x="838" y="270" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580634984638">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="838" y="270" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1580634984638" />
+    <state x="457" y="241" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581243603509">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="457" y="241" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1581243603509" />
+    <state x="487" y="109" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1581243490630">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="487" y="109" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1581243490630" />
+    <state x="296" y="52" key="CommitChangelistDialog2" timestamp="1581244055935">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="296" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1581244055935" />
+    <state x="584" y="350" key="Github.ShareDialog" timestamp="1581243936093">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="584" y="350" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1581243936093" />
+    <state width="1396" height="280" key="GridCell.Tab.0.bottom" timestamp="1581243662174">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="238" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1580711938726" />
+    <state width="1396" height="280" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581243662174" />
+    <state width="1396" height="280" key="GridCell.Tab.0.center" timestamp="1581243662173">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="238" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1580711938726" />
+    <state width="1396" height="280" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581243662173" />
+    <state width="1396" height="280" key="GridCell.Tab.0.left" timestamp="1581243662172">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="238" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1580711938725" />
+    <state width="1396" height="280" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581243662172" />
+    <state width="1396" height="280" key="GridCell.Tab.0.right" timestamp="1581243662173">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="238" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1580711938726" />
+    <state width="1396" height="280" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581243662173" />
+    <state width="1396" height="280" key="GridCell.Tab.1.bottom" timestamp="1581243662176">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="238" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1580711938727" />
+    <state width="1396" height="280" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581243662176" />
+    <state width="1396" height="280" key="GridCell.Tab.1.center" timestamp="1581243662175">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="238" key="GridCell.Tab.1.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1580711938727" />
+    <state width="1396" height="280" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1581243662175" />
+    <state width="1396" height="280" key="GridCell.Tab.1.left" timestamp="1581243662175">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="238" key="GridCell.Tab.1.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1580711938727" />
+    <state width="1396" height="280" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1581243662175" />
+    <state width="1396" height="280" key="GridCell.Tab.1.right" timestamp="1581243662175">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="238" key="GridCell.Tab.1.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1580711938727" />
+    <state width="1396" height="280" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1581243662175" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1580635294563">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1580635294563" />
+    <state x="321" y="178" key="Vcs.Push.Dialog.v2" timestamp="1581244646604">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="321" y="178" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1581244646604" />
+    <state x="101" y="100" width="1240" height="700" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1581244651210">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="101" y="100" width="1240" height="700" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1440.900@0.0.1440.900" timestamp="1581244651210" />
+    <state x="97" y="154" key="new project wizard" timestamp="1580461550513">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="97" y="154" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1580461550513" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1581244429848">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1581244429848" />
+  </component>
+</project>
