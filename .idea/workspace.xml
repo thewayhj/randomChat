@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9639b07f-d64c-4d37-95be-424ee25d7773" name="Default Changelist" comment="" />
+    <list default="true" id="9639b07f-d64c-4d37-95be-424ee25d7773" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.0.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.0.1/executionHistory/executionHistory.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,7 +154,7 @@
       <workItem from="1581232667562" duration="21000" />
       <workItem from="1581233044164" duration="3250000" />
       <workItem from="1581240519314" duration="1804000" />
-      <workItem from="1581242662906" duration="1915000" />
+      <workItem from="1581242662906" duration="2562000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1581244056169</created>
@@ -248,6 +250,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="101" y="100" width="1240" height="700" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1440.900@0.0.1440.900" timestamp="1581244651210" />
+    <state x="467" y="170" key="git4idea.branch.GitSmartOperationDialog" timestamp="1581245285037">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="467" y="170" key="git4idea.branch.GitSmartOperationDialog/0.0.1440.900@0.0.1440.900" timestamp="1581245285037" />
     <state x="97" y="154" key="new project wizard" timestamp="1580461550513">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
