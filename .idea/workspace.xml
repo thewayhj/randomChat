@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9639b07f-d64c-4d37-95be-424ee25d7773" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/6.0.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.0.1/executionHistory/executionHistory.lock" afterDir="false" />
-    </list>
+    <list default="true" id="9639b07f-d64c-4d37-95be-424ee25d7773" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +44,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -86,7 +85,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -154,7 +153,7 @@
       <workItem from="1581232667562" duration="21000" />
       <workItem from="1581233044164" duration="3250000" />
       <workItem from="1581240519314" duration="1804000" />
-      <workItem from="1581242662906" duration="2562000" />
+      <workItem from="1581242662906" duration="2906000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1581244056169</created>
@@ -163,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581244056169</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1581245296142</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581245296142</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,14 +248,14 @@
     </state>
     <state width="1396" height="238" key="GridCell.Tab.1.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1580711938727" />
     <state width="1396" height="280" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1581243662175" />
-    <state x="221" y="89" key="SettingsEditor" timestamp="1580635294563">
+    <state x="221" y="89" key="SettingsEditor" timestamp="1581245574202">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1580635294563" />
-    <state x="321" y="178" key="Vcs.Push.Dialog.v2" timestamp="1581245297529">
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1581245574202" />
+    <state x="321" y="178" key="Vcs.Push.Dialog.v2" timestamp="1581245522668">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="321" y="178" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1581245297529" />
+    <state x="321" y="178" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1581245522668" />
     <state x="101" y="100" width="1240" height="700" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1581244651210">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
